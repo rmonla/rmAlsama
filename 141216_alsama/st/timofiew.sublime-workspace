@@ -1,0 +1,1211 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ctr",
+				"ctrls"
+			],
+			[
+				"class",
+				"addClass  (function)"
+			],
+			[
+				"®",
+				"®php-fx	®php-fx"
+			],
+			[
+				"_SE",
+				"_SESSION  (variable)"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"Date",
+				"DateTime  (class)"
+			],
+			[
+				"idcur",
+				"idcuralu"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"cont",
+				"conta  (variable)"
+			],
+			[
+				"parets",
+				"parents  (function)"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"rem",
+				"removeClass  (function)"
+			],
+			[
+				"w",
+				"width:   (property)"
+			],
+			[
+				"s",
+				"switch	switch …"
+			],
+			[
+				"esta",
+				"estaono"
+			],
+			[
+				"ass",
+				"fbsql_fetch_assoc"
+			],
+			[
+				"do",
+				"dominio"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fileg",
+				"file_get_contents"
+			],
+			[
+				"var_",
+				"var_dump  (function)"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"app",
+				"appendTo	.appendTo()"
+			],
+			[
+				"conf",
+				"confirmar"
+			],
+			[
+				"ty",
+				"type  (function)"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"fase",
+				"false"
+			],
+			[
+				"id",
+				"idcli"
+			],
+			[
+				"asso",
+				"db2_fetch_assoc"
+			],
+			[
+				"b",
+				"busc"
+			],
+			[
+				"bus",
+				"busc  (variable)"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"o",
+				"opts"
+			],
+			[
+				"paretnt",
+				"parent  (function)"
+			],
+			[
+				"min",
+				"min-height:   (property)"
+			],
+			[
+				"in",
+				"ins  (variable)"
+			],
+			[
+				"ida",
+				"idarea  (variable)"
+			],
+			[
+				"idm",
+				"idmat  (variable)"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			],
+			[
+				"fet",
+				"cubrid_fetch_assoc"
+			],
+			[
+				"st",
+				"sted_mat"
+			],
+			[
+				"hs",
+				"hs_p  (variable)"
+			],
+			[
+				"utf8_",
+				"utf8_decode"
+			],
+			[
+				"fetch_",
+				"cubrid_fetch_assoc"
+			],
+			[
+				"fetchas",
+				"db2_fetch_assoc"
+			],
+			[
+				"appe",
+				"appendTo  (function)"
+			],
+			[
+				"parent",
+				"parents	.parents()"
+			],
+			[
+				"Cur",
+				"Curris_lst"
+			],
+			[
+				"ea",
+				"each	$.each()"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"idc",
+				"idconc  (variable)"
+			],
+			[
+				"fecha",
+				"fetch_assoc"
+			],
+			[
+				"att",
+				"attr  (function)"
+			],
+			[
+				"at",
+				"attr	.attr() - single"
+			],
+			[
+				"cl",
+				"addClass  (function)"
+			],
+			[
+				"cat",
+				"catedra  (variable)"
+			],
+			[
+				"bs",
+				"buscarPer"
+			],
+			[
+				"hi",
+				"hide  (function)"
+			],
+			[
+				"idfc",
+				"idfcpc  (variable)"
+			],
+			[
+				"utf8",
+				"utf8_encode  (function)"
+			],
+			[
+				"pos",
+				"post  (function)"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"htmle",
+				"htmlspecialchars"
+			],
+			[
+				"spli",
+				"splice"
+			],
+			[
+				"appen",
+				"appendTo	.appendTo()"
+			],
+			[
+				"rg",
+				"rg"
+			],
+			[
+				"e",
+				"each	.each()"
+			],
+			[
+				"htm",
+				"html	.html"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"strr",
+				"str_replace"
+			],
+			[
+				"rep",
+				"replaceAll	.replaceAll"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"la",
+				"laurl"
+			],
+			[
+				"htmls",
+				"htmlspecialchars_decode  (function)"
+			],
+			[
+				"lo",
+				"load	.load"
+			],
+			[
+				"loa",
+				"load	.load"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"to",
+				"toggle	.toggle()"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"g",
+				"get	$.get()"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"data",
+				"datacarrs"
+			],
+			[
+				"ad",
+				"addClass	addClass"
+			],
+			[
+				"foc",
+				"focus	focus"
+			],
+			[
+				"va",
+				"val	.val()"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"sh",
+				"show	show"
+			],
+			[
+				"el",
+				"elform"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"facu",
+				"facultad"
+			],
+			[
+				"rs",
+				"rs_facu  (variable)"
+			],
+			[
+				"bo",
+				"bot"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"op",
+				"optnew"
+			],
+			[
+				"a",
+				"append	.append"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"mats",
+				"mats"
+			],
+			[
+				"clo",
+				"close"
+			],
+			[
+				"wre",
+				"wre  (variable)"
+			],
+			[
+				"bu",
+				"buspor  (variable)"
+			],
+			[
+				"fetch",
+				"mysql_fetch_assoc"
+			],
+			[
+				"my",
+				"mysqli"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"p",
+				"push  (function)"
+			],
+			[
+				"opt",
+				"opt"
+			],
+			[
+				"con",
+				"container2"
+			],
+			[
+				"da",
+				"dats"
+			],
+			[
+				"pa",
+				"pag_prev  (variable)"
+			],
+			[
+				"pag",
+				"pag_prox  (variable)"
+			],
+			[
+				"pag_",
+				"pag_prev"
+			],
+			[
+				"li",
+				"lis  (variable)"
+			],
+			[
+				"po",
+				"post  (function)"
+			],
+			[
+				"wh",
+				"width	.width"
+			],
+			[
+				"ct",
+				"ctrls"
+			],
+			[
+				"div",
+				"div_parc"
+			],
+			[
+				"lb",
+				"lbls"
+			],
+			[
+				"elm",
+				"elmodo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"th",
+				"TidyHTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"go",
+				"Goto Documentation"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"jaa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"htm",
+				"Tidy HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"Snippet: ®",
+				"Snippet: ®php-sql_ejecutar"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ®php-comment"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mm",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"se",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"xml",
+				"json2xml: json to xml"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"w",
+				"Web Inspector"
+			],
+			[
+				"we",
+				"Web Inspector"
+			],
+			[
+				"g",
+				"Goto Documentation"
+			],
+			[
+				"t",
+				"Tidy HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"co",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 287.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_108/js/validar.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_108/js/js.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/js/js.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_108/p_pers/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/js/validar.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_pers/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/js/enviar.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_pertuts/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_curs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_curdocs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_curalus/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_curalunots/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_curtems/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_usrs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_notts/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/p_funcs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_107/js/ctrs.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_106/js/ctrs.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_106/js/js.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_106/p_pers/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_106/js/jquery.maskedinput.min.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/p_usrs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/js/login.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/p_usrs/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/login.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/p_pers/pers.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/p_curs/curs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/p_curs/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/php/fxs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/p_admcurs/admcurs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/p_curalus/curalus.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/p_curalus/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/js/mnus.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/php/mnu.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_105/index.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_104/p_usrs/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_104/php/fxs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_104/p_usrs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_104/p_usrs/usrs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_104/login.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_104/js/login.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_104/js/enviar.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_104/js/js.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_104/index.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curalunots/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/php/fxs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curalus/getCurAlus.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/php/sql.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_sis/sis.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_notts/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_notts/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curalunots/curalunots.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curalunots/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_admcurs/admcurs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_notts/notts.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_notts/nots.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_nots/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_nots/nots.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_nots/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curalus/curalus.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curalus/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curalus/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curdocs/curdocs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curdocs/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curdocs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/css/css.css",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curtems/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curtems/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curtems/curtems.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curs/curs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curtems/pertuts.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curs/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_pertuts/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_curs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_admpers/admpers.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_pertuts/xpertuts.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_pertuts/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_pertuts/pertuts.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_pers/pers.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_pers/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_pertuts/pers.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/js/enviar.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/js/confirma.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/js/js.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_pers/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/alsama_103/p_usrs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/index.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_curs/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_admcurs/admcurs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_admpers/admpers.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_pers/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_curalus/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_curalus/curalus.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_curs/curs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/php/fxs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_sis/sis.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_funcs/funcs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_funcs/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_funcs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_usrs/usrs.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_curs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_admpers/bdpers.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_bdpers/bdpers.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/php/sql.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_pers/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/js/abms.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/js/salir.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_agrups/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_usrs/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_pers/pers.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_persabm/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_persabm/persabm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_persabm/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/js/mnus.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/docs/casosdeusocorregidotimofeew.zip",
+		"/C/Users/ricardo/Documents/www/TimoFiew/docs/Ficha Datos Personales.doc",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_usrs/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/js/enviar.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/js/js.js",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_agrups/agrups.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_agrups/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_docts/abm.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_docts/docts.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_docts/lst.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/css/css.css",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/p_usrs/agrups.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/php/ir.php",
+		"/C/Users/ricardo/Documents/www/TimoFiew/www/v_103/ir.php"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ape",
+			"ui-state-highlight",
+			"ctrl",
+			"this",
+			"tynamepe",
+			"usr",
+			"perf",
+			"	",
+			"USUARIO",
+			"	",
+			"false",
+			"idper",
+			"usr",
+			"nom",
+			"perf",
+			"nom",
+			"cat",
+			"Profesor",
+			"usr",
+			"Salir",
+			"usr",
+			"ini",
+			"\n          ",
+			"search-button",
+			"=",
+			"cargaLogin",
+			"login",
+			"mnus",
+			"center",
+			"	",
+			"opt",
+			"curtem",
+			"TEMA",
+			"ftem",
+			"cur",
+			"idcur",
+			"CURSO",
+			"idper",
+			"ftem",
+			"fnot",
+			"idcuralu",
+			"idper",
+			"alu",
+			"ftem",
+			"aemobsail",
+			"obs",
+			"nots",
+			"alus",
+			"ca",
+			"ALUMNO",
+			"contentalt",
+			"=",
+			"not",
+			"est",
+			"curtem",
+			"func",
+			"DOCENTE",
+			"curdoc",
+			"dfb",
+			"doc",
+			"dfb",
+			"doc",
+			"d.",
+			"cd",
+			"curdoc",
+			"cur",
+			"idcur",
+			"=",
+			"ftem",
+			"curtem",
+			"tem",
+			"tfb",
+			"tuts",
+			"idpera",
+			"contt",
+			"tut",
+			"tems",
+			"afb",
+			"a.",
+			"ct",
+			"curtems",
+			"midd",
+			"fnac",
+			"fecha",
+			"contentalt",
+			"middle",
+			"contentalt",
+			"midle",
+			"contentalt",
+			"	",
+			"ftem",
+			"=",
+			"pers",
+			"idcur",
+			"idpera",
+			"ALUMNO",
+			"fnac",
+			"ftem",
+			"fnac",
+			"ftem",
+			"idftemcur",
+			"idpera",
+			"fdats",
+			"idc",
+			"ida",
+			"temail",
+			"est",
+			"contt",
+			"tut",
+			"tuts",
+			"alu",
+			"idpera",
+			"aluant",
+			"pertut",
+			"obs",
+			"	",
+			"=",
+			"title",
+			"a.",
+			"TUTOR",
+			"nom",
+			"100",
+			"	",
+			"clase",
+			"id",
+			"25",
+			"contt",
+			"alu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'Modificar",
+			"	",
+			"\")",
+			"(\"",
+			"css/",
+			"php/",
+			"js/",
+			"'php/",
+			"js/",
+			"img/",
+			"js/",
+			"img/",
+			"../img/",
+			"charset=utf-8",
+			"",
+			"\"https://www.linkedin.com/",
+			".html\" class=\"mp\"",
+			".htnl\" class=\"mp\"",
+			"href=\"uebermich.html\"",
+			"href=\"#\"",
+			"'",
+			"",
+			"dbf_class.php",
+			"Continuar leyendo",
+			"EduLiq",
+			"		",
+			"			",
+			"",
+			"class=\"skin-2",
+			"http://coditeca.com.ar",
+			"href=\"http://coditeca.com.ar/",
+			"action=\"http://coditeca.com.ar/\"",
+			" href=\"http://coditeca.com.ar/\">",
+			"<a href=\"http://coditeca.com.ar/\" ",
+			"<a href=\"http://coditeca.com.ar/\">",
+			"Función",
+			"función",
+			"<®>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 119.0
+	},
+	"output.find_results":
+	{
+		"height": 166.0
+	},
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mate",
+				"www/js/materias.js"
+			],
+			[
+				"sql",
+				"www/php/sql.php"
+			],
+			[
+				"ma",
+				"www/js/materias_abm.js"
+			],
+			[
+				"plan",
+				"www/php/planes.php"
+			],
+			[
+				"fxs",
+				"www/php/fxs.php"
+			],
+			[
+				"abm",
+				"www/js/personas_abm.js"
+			],
+			[
+				"per",
+				"www/js/personas.js"
+			],
+			[
+				"materi",
+				"www/js/materias.js"
+			],
+			[
+				"ind",
+				"www/js/index.js"
+			],
+			[
+				"ab",
+				"www/js/personas_abm.js"
+			],
+			[
+				"get",
+				"www/php/get.php"
+			],
+			[
+				"perso",
+				"www/js/personas_abm.js"
+			],
+			[
+				"in",
+				"www/js/index.js"
+			],
+			[
+				"personas_a",
+				"utnlr_secacad/www/php/personas_abm.php"
+			],
+			[
+				"",
+				"utnlr_secacad/www/js/personas_abm.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true
+}

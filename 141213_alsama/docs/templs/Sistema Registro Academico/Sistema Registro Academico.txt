@@ -1,0 +1,12 @@
+Administrador:
+usuario: admin
+pass : admin
+
+
+Alumno:
+usuario: nahum
+pass : denny
+
+Docente:
+usuario : danilo
+Pass : danilo 

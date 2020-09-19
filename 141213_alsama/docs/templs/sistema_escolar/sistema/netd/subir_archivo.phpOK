@@ -1,0 +1,6 @@
+<?php
+copy($_FILES['foto']['tmp_name'],$_FILES['foto']['name']);
+echo "La foto se subio correctamente al servidor.<br>";
+$nom=$_FILES['foto']['name'];
+echo "<img src='$nom'>";
+?>
