@@ -1,7 +1,0 @@
-}else{
-//Si no estoy logueado me pide el login
-  session_destroy();
-  echo "<h2 align='center' style='color:red'>Acceso Denegado</h2>";
-  echo "<hr>";
-  include("index.php");
-}
